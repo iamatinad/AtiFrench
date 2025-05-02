@@ -1,8 +1,3 @@
-# AtiFrench
-French Learning Flashcard App
-
-
-readme_content_with_emojis = """
 # AtiFrench - A French Learning Flashcard App 🇫🇷📱
 
 **AtiFrench** is a digital app designed to help you improve your French language skills through daily vocabulary and tenses review. The app provides a simple and efficient way to store and review words, phrases, and grammar rules in one place, without the hassle of scattered notes in papers, books, or physical flashcards. 📚💡
