@@ -34,7 +34,6 @@ AtiFrench uses **Google Sheets** to store your vocabulary and progress, and is p
 ## Contributing 🤝
 
 Feel free to contribute by:
-- Reporting issues or bugs. 🐞
 - Suggesting new features to improve the app. 💡
 - Improving documentation. 📖✍️
 
