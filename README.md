@@ -1,4 +1,5 @@
-# AtiFrench - A French Learning Flashcard App 🇫🇷📱
+# AtiFrench 
+A French Learning Flashcard App 🇫🇷📱
 
 **AtiFrench** is a digital app designed to help you improve your French language skills through daily vocabulary and tenses review. The app provides a simple and efficient way to store and review words, phrases, and grammar rules in one place, without the hassle of scattered notes in papers, books, or physical flashcards. 📚💡
 
@@ -21,7 +22,12 @@ AtiFrench uses **Google Sheets** to store your vocabulary and progress, and is p
 - **Effective Practice**: Daily words help reinforce learning and prevent forgetting. 💡🔄
 - **Personalized**: Add words and phrases specific to your learning journey. 💬🎯
 
+## Screenshots 🖼️
 
+![Home](https://github.com/iamatinad/AtiFrench/blob/main/home.png)
+![Main](https://github.com/iamatinad/AtiFrench/blob/main/Main%20page.png)
+![Daily Word](https://github.com/iamatinad/AtiFrench/blob/main/Daily%20word.png)
+![Add](https://github.com/iamatinad/AtiFrench/blob/main/Add.png)
 
 
 
